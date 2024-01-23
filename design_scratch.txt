@@ -1,0 +1,13 @@
+The system should be as follows:
+
+a. Front end
+1. Consists of front end, a log-in page that directs the user to a screen 
+2. the other screen has a promot where users enters their explanation and an interactive text that brings on the post to the user
+
+
+
+b. Back end
+
+i. users database there should be a back-end to check for the users log-ins db
+
+ii. the backend should also be able to communicate with the front end using a middle-ware 
