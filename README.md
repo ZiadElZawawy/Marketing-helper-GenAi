@@ -14,8 +14,7 @@ Welcome to the Marketing Helper Tool project! This innovative tool is designed t
 To get started with the Marketing Helper Tool, clone this repository and follow the setup instructions below.
 
 ### Prerequisites
-- Python 3.8 or higher
-- Required Python libraries (see `requirements.txt`)
+- The application will be written in mostly java script and it will use a MySQL database as for the backend it will use node.js
 
 ### Installation
 1. Clone the repository:
