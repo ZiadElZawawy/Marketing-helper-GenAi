@@ -1,40 +1,40 @@
-# Marketing-helper-GenAi
-
+# Sentiment-Analysis-Tool
 
 ## Introduction
-Welcome to the Marketing Helper Tool project! This innovative tool is designed to assist marketing professionals and businesses in creating compelling marketing posts. By simply providing a brief overview of their requirements, users can leverage the power of advanced AI to generate creative and effective content for their marketing needs.
+Welcome to the Sentiment Analysis Tool project! This tool is designed for individuals and businesses to analyze and understand the sentiment behind various texts. By using advanced AI techniques, users can input text data and quickly ascertain the underlying sentiment, be it positive, negative, or neutral.
 
 ## Features
-- **Brief-to-Content Conversion**: Input a brief description of your marketing needs and get a fully formed marketing post.
-- **AI-Powered Content Generation**: Utilize cutting-edge AI technology for generating engaging and relevant content.
-- **Customization Options**: Tailor the output to fit specific styles, tones, or branding guidelines.
-- **User-Friendly Interface**: Easy-to-use interface for inputting briefs and receiving generated content.
+- **Text Sentiment Analysis**: Input any text and receive an analysis of its sentiment.
+- **AI-Powered Analysis**: Leverage state-of-the-art AI technology to accurately assess sentiment in text.
+- **Interactive User Interface**: Easy-to-navigate interface built with PyQt5 for a seamless user experience.
+- **Custom Analysis Options**: Options to tailor the analysis based on specific needs or criteria.
 
 ## Getting Started
-To get started with the Marketing Helper Tool, clone this repository and follow the setup instructions below.
+To begin using the Sentiment Analysis Tool, clone this repository and follow the setup instructions below.
 
 ### Prerequisites
-- The application will be written in mostly java script and it will use a MySQL database as for the backend it will use node.js
+- The application is developed entirely in Python, utilizing PyQt5 for the front-end.
+- No additional database is required for the core functionality.
 
 ### Installation
 1. Clone the repository:
    ```bash
    git clone [repository-url]
-2. navigate to the project directory: 
-   cd marketing-helper-tool
+
+2. Navigate to the project directory:
+   - cd sentiment-analysis-tool
    
-3. Install required libraries:
-   pip install -r requirements.txt
-   
-**Usage**
-Provide a brief overview of your marketing needs in the designated input area, and the tool will generate a marketing post based on your input.
+Install the necessary requirements using the following command:
+- pip install -r requirements.txt
 
 
-**Future Enhancements**
-- Integration with social media platforms for direct posting.
-- Support for multiple languages.
-- Advanced customization features.
+### Usage
+Run the application, input the text in the designated area, and the tool will analyze and display the sentiment of the provided text.
+
+### Future Enhancements
+- Support for multiple languages to analyze sentiment in various languages.
+- Integration with social media platforms for live sentiment analysis of posts.
+- Advanced customization features for different types of text analysis.
 
 
-This README is a basic template, and you should modify it to fit the specific details and requirements of your project. It includes sections like an introduction, features, getting started instructions, contribution guidelines, and contact information, which are essential for any good README. You can add more details as your project progresses, such as screenshots, detailed usage guides, and FAQs.
-
+This README serves as a guide for the Sentiment Analysis Tool project. As the project evolves, consider updating this document with additional details, such as screenshots, a more detailed usage guide, and FAQs to assist users.
